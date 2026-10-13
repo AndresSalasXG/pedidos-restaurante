@@ -7,7 +7,7 @@ ARCHIVO_PEDIDOS = Path("pedidos.json")
 MENU = {
     "1": {"nombre": "Hamburguesa clásica", "precio": 18000},
     "2": {"nombre": "Pizza personal", "precio": 22000},
-    "3": {"nombre": "Jugo natural", "precio": 7000},
+    "3": {"nombre": "Jugos naturales", "precio": 7000},
         "4": {"nombre": "Pasta del día", "precio": 16000},
 }
 
