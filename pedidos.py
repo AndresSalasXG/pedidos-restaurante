@@ -8,7 +8,11 @@ MENU = {
     "1": {"nombre": "Hamburguesa clásica", "precio": 18000},
     "2": {"nombre": "Pizza personal", "precio": 22000},
     "3": {"nombre": "Jugo natural", "precio": 7000},
+<<<<<<< HEAD
     "4": {"nombre": "Pasta del día", "precio": 16000},
+=======
+        "4": {"nombre": "Pasta del día", "precio": 16000},
+>>>>>>> 6ee7172 (Recupera el menú correcto con checkout)
 }
 
 ESTADOS = ["Recibido", "Preparando", "Listo", "Entregado", "Cancelado"]
