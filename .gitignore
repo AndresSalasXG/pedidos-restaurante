@@ -1,12 +1,2 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.env
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-
-# Pedidos creados al usar el programa: datos locales, no parte del código
-pedidos.json
+# Pedidos guardados al usar el programa
+pedidos.json    
